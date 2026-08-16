@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B2A86,100:8E44AD&height=220&section=header&text=Welcome%20to%20Arthur's%20Lab%20🚀🧪&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20·%20Relentless%20Learner&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D0B,50:1B5E20,100:43A047&height=220&section=header&text=&fontSize=0&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Engineer+%C2%B7+Relentless+Learner;CS+Student+at+Livingstone+College;Always+up+for+a+challenge+♟️🧩;Currently+debugging+something...&font=Fira+Code&center=true&width=600&height=45&color=8E44AD&vCenter=true&size=22"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=🚀+Welcome+to+Leslie's+World;+++++Welcome+to+Leslie's+World+🚀;🚀+Welcome+to+Leslie's+World&font=Fira+Code&center=true&width=650&height=60&color=2EA043&vCenter=true&size=32&repeat=true&pause=800"/>
+
+<img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Engineer+·+Relentless+Learner;CS+Student+at+Livingstone+College;Always+up+for+a+challenge+♟️🧩&font=Fira+Code&center=true&width=600&height=40&color=43A047&vCenter=true&size=18"/>
 
 <br/>
 
@@ -17,7 +19,7 @@
 
 ---
 
-### 🧪 About Me
+### 🌱 About Me
 
 I'm Arthur — a **Computer and Information Sciences** student at **Livingstone College** (Salisbury, NC), Presidential Scholar and Honors College member.
 
@@ -25,41 +27,65 @@ I love a good challenge. Outside of code, you'll find me grinding at **chess** o
 
 ---
 
-### ⚗️ Skills
+<div align="center">
+
+### <img src="https://readme-typing-svg.demolab.com/?lines=💻;+&font=Fira+Code&center=true&width=40&height=35&color=2EA043&vCenter=true&size=28&repeat=true&pause=400" align="center"/> Tech Stack
+
+</div>
 
 **Languages**
 
-![Python](https://img.shields.io/badge/-Python-8E44AD?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-8E44AD?style=flat-square&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-8E44AD?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL%20(PostgreSQL)-8E44AD?style=flat-square&logo=postgresql&logoColor=white)
-![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-8E44AD?style=flat-square&logo=html5&logoColor=white)
-![VBA](https://img.shields.io/badge/-VBA-8E44AD?style=flat-square)
+![Python](https://img.shields.io/badge/-Python-1B5E20?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-1B5E20?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-1B5E20?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL%20(PostgreSQL)-1B5E20?style=flat-square&logo=postgresql&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-1B5E20?style=flat-square&logo=html5&logoColor=white)
+![VBA](https://img.shields.io/badge/-VBA-1B5E20?style=flat-square)
 
 **Frameworks & Libraries**
 
-![FastAPI](https://img.shields.io/badge/-FastAPI-5B2A86?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/-React-5B2A86?style=flat-square&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-5B2A86?style=flat-square&logo=nodedotjs&logoColor=white)
-![Socket.io](https://img.shields.io/badge/-Socket.io-5B2A86?style=flat-square&logo=socketdotio&logoColor=white)
-![XGBoost](https://img.shields.io/badge/-XGBoost-5B2A86?style=flat-square)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-5B2A86?style=flat-square&logo=scikitlearn&logoColor=white)
-![pandas](https://img.shields.io/badge/-pandas-5B2A86?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-5B2A86?style=flat-square&logo=numpy&logoColor=white)
-![Phaser.js](https://img.shields.io/badge/-Phaser.js-5B2A86?style=flat-square)
+![FastAPI](https://img.shields.io/badge/-FastAPI-2E7D32?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/-React-2E7D32?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-2E7D32?style=flat-square&logo=nodedotjs&logoColor=white)
+![Socket.io](https://img.shields.io/badge/-Socket.io-2E7D32?style=flat-square&logo=socketdotio&logoColor=white)
+![XGBoost](https://img.shields.io/badge/-XGBoost-2E7D32?style=flat-square)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-2E7D32?style=flat-square&logo=scikitlearn&logoColor=white)
+![pandas](https://img.shields.io/badge/-pandas-2E7D32?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-2E7D32?style=flat-square&logo=numpy&logoColor=white)
+![Phaser.js](https://img.shields.io/badge/-Phaser.js-2E7D32?style=flat-square)
 
 **Tools**
 
-![Git](https://img.shields.io/badge/-Git-6C3483?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-6C3483?style=flat-square&logo=githubactions&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-6C3483?style=flat-square&logo=redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-6C3483?style=flat-square&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-6C3483?style=flat-square&logo=linux&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-6C3483?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-43A047?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-43A047?style=flat-square&logo=githubactions&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-43A047?style=flat-square&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-43A047?style=flat-square&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-43A047?style=flat-square&logo=linux&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-43A047?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-### 🚀 Currently
+### 🛠️ Projects
+
+<br/>
+
+**[KV-Store — Key-Value Database Engine](https://github.com/leslie406prime/kv-store)**
+
+<img src="https://readme-typing-svg.demolab.com/?lines=Python+·+B-Tree+·+WAL+·+TCP+·+CLI&font=Fira+Code&center=false&width=500&height=30&color=2EA043&vCenter=true&size=15&repeat=true"/>
+
+A from-scratch persistent key-value store with a B-Tree index, Write-Ahead Log, log compaction, and crash recovery — built without external database libraries. Hit a 181x range-query speedup over a hash-index baseline at 100,000 keys, exposed over a TCP server with a CLI client, and validated across 21 passing unit and integration tests.
+
+<br/>
+
+**[NBA Player Performance Projector](https://github.com/leslie406prime/nba-player-performance-projector)**
+
+<img src="https://readme-typing-svg.demolab.com/?lines=Python+·+XGBoost+·+scikit-learn+·+pandas+·+CI%2FCD&font=Fira+Code&center=false&width=500&height=30&color=2EA047&vCenter=true&size=15&repeat=true"/>
+
+An end-to-end ML pipeline forecasting NBA player scoring output, comparing XGBoost against a Linear Regression baseline on multi-season stats. Built leakage-safe rolling-window features (5/10/20-game windows) with strict chronological ordering, automated and validated via GitHub Actions CI/CD on every commit.
+
+---
+
+### 🌿 Currently
 
 - 🎓 CIS student at Livingstone College
 - 🧠 Solving LeetCode actively
@@ -72,6 +98,6 @@ I love a good challenge. Outside of code, you'll find me grinding at **chess** o
 
 *"I am somebody, but I will be somebody."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E44AD,100:5B2A86&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:43A047,50:1B5E20,100:0B3D0B&height=100&section=footer" width="100%"/>
 
 </div>
