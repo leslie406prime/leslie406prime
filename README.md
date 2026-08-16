@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D0B,50:1B5E20,100:43A047&height=220&section=header&text=&fontSize=0&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=🚀+Welcome+to+Leslie's+World;+++++Welcome+to+Leslie's+World+🚀;🚀+Welcome+to+Leslie's+World&font=Fira+Code&center=true&width=650&height=60&color=2EA043&vCenter=true&size=32&repeat=true&pause=800"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%9A%80+Welcome+to+Leslie%27s+World;+++++Welcome+to+Leslie%27s+World+%F0%9F%9A%80;%F0%9F%9A%80+Welcome+to+Leslie%27s+World&font=Fira+Code&center=true&width=650&height=60&color=2EA043&vCenter=true&size=32&repeat=true&pause=800"/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Engineer+·+Relentless+Learner;CS+Student+at+Livingstone+College;Always+up+for+a+challenge+♟️🧩&font=Fira+Code&center=true&width=600&height=40&color=43A047&vCenter=true&size=18"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Engineer+%C2%B7+Relentless+Learner;CS+Student+at+Livingstone+College;Always+up+for+a+challenge&font=Fira+Code&center=true&width=600&height=40&color=43A047&vCenter=true&size=18"/>
 
 <br/>
 
@@ -29,7 +29,7 @@ I love a good challenge. Outside of code, you'll find me grinding at **chess** o
 
 <div align="center">
 
-### <img src="https://readme-typing-svg.demolab.com/?lines=💻;+&font=Fira+Code&center=true&width=40&height=35&color=2EA043&vCenter=true&size=28&repeat=true&pause=400" align="center"/> Tech Stack
+### <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%92%BB;+&font=Fira+Code&center=true&width=40&height=35&color=2EA043&vCenter=true&size=28&repeat=true&pause=400" align="center"/> Tech Stack
 
 </div>
 
@@ -71,7 +71,7 @@ I love a good challenge. Outside of code, you'll find me grinding at **chess** o
 
 **[KV-Store — Key-Value Database Engine](https://github.com/leslie406prime/kv-store)**
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Python+·+B-Tree+·+WAL+·+TCP+·+CLI&font=Fira+Code&center=false&width=500&height=30&color=2EA043&vCenter=true&size=15&repeat=true"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=Python+%C2%B7+B-Tree+%C2%B7+WAL+%C2%B7+TCP+%C2%B7+CLI&font=Fira+Code&center=false&width=500&height=30&color=2EA043&vCenter=true&size=15&repeat=true"/>
 
 A from-scratch persistent key-value store with a B-Tree index, Write-Ahead Log, log compaction, and crash recovery — built without external database libraries. Hit a 181x range-query speedup over a hash-index baseline at 100,000 keys, exposed over a TCP server with a CLI client, and validated across 21 passing unit and integration tests.
 
@@ -79,7 +79,7 @@ A from-scratch persistent key-value store with a B-Tree index, Write-Ahead Log, 
 
 **[NBA Player Performance Projector](https://github.com/leslie406prime/nba-player-performance-projector)**
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Python+·+XGBoost+·+scikit-learn+·+pandas+·+CI%2FCD&font=Fira+Code&center=false&width=500&height=30&color=2EA047&vCenter=true&size=15&repeat=true"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=Python+%C2%B7+XGBoost+%C2%B7+scikit-learn+%C2%B7+pandas+%C2%B7+CI%2FCD&font=Fira+Code&center=false&width=500&height=30&color=2EA047&vCenter=true&size=15&repeat=true"/>
 
 An end-to-end ML pipeline forecasting NBA player scoring output, comparing XGBoost against a Linear Regression baseline on multi-season stats. Built leakage-safe rolling-window features (5/10/20-game windows) with strict chronological ordering, automated and validated via GitHub Actions CI/CD on every commit.
 
